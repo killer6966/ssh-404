@@ -28,7 +28,7 @@ echo "
 <h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
+<h4><font color='blue'>Telegram Channel >> https://t.me/killer6966
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
